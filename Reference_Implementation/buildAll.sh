@@ -5,11 +5,11 @@ allFolders=$(ls)
 for folder in $allFolders
 do
     cd $folder
-    ./buildEncap
-    ./runEncap
-    ./buildDecap
-    ./runEncap
-    ./buildRand
-    ./runRand
+    make kat_encap
+    make kat_kem_encap.rsp
+    make kat_decap
+    make kat_kem_decap.rsp
+    make kat_rand
+    make kat_kem_rand.rsp
     cd ..
 done
