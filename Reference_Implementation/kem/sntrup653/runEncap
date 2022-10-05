@@ -1,0 +1,2 @@
+#!/bin/sh
+./kat kem/sntrup653 > addEncap653.int 8> addEncap653.req 9> addEncap653.rsp

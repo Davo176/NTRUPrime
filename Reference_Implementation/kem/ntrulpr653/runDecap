@@ -1,0 +1,2 @@
+#!/bin/sh
+./kat kem/ntrulpr653 > addDecap.int 8> addDecap.req 9> addDecap.rsp

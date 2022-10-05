@@ -1,0 +1,2 @@
+#!/bin/sh
+./kat kem/sntrup1277 > addEncap1277.int 8> addEncap1277.req 9> addEncap1277.rsp
