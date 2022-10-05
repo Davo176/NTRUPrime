@@ -1,0 +1,2 @@
+#!/bin/sh
+./kat kem/sntrup953 > addRand953.int 8> addRand953.req 9> addRand953.rsp

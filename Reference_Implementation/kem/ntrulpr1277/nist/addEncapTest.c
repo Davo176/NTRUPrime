@@ -1,6 +1,6 @@
 /*
    PQCgenKAT_kem.c
-   Created by Bassham, Lawrence E (Fed) on 8/29/17.
+   Modified from a file created by Bassham, Lawrence E (Fed) on 8/29/17.
    Copyright © 2017 Bassham, Lawrence E (Fed). All rights reserved.
    + mods from djb: see KATNOTES
 */
