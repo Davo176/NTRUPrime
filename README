@@ -1,3 +1,5 @@
+Make all additional Test cases by running ./Reference_Implementation/buildAll.sh
+
 KAT/kem/ntrulpr1013/kat_kem.int: intermediate values for Known Answer Test
 KAT/kem/ntrulpr1013/kat_kem.req: input for Known Answer Test
 KAT/kem/ntrulpr1013/kat_kem.rsp: output for Known Answer Test
