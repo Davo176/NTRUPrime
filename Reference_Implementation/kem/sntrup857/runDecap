@@ -1,2 +1,2 @@
 #!/bin/sh
-./kat kem/sntrup857 > addDecap857.int 8> addDecap857.req 9> addDecap857.rsp
+./kat_decap kem/sntrup857 > addDecap857.int 8> addDecap857.req 9> addDecap857.rsp

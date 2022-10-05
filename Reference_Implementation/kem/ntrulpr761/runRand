@@ -1,2 +1,2 @@
 #!/bin/sh
-./kat kem/ntrulpr761 > addRand761.int 8> addRand761.req 9> addRand761.rsp
+./kat_rand kem/ntrulpr761 > addRand761.int 8> addRand761.req 9> addRand761.rsp
