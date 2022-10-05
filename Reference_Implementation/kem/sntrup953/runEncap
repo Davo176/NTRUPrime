@@ -1,2 +1,2 @@
 #!/bin/sh
-./kat kem/sntrup953 > addEncap953.int 8> addEncap953.req 9> addEncap953.rsp
+./kat_encap kem/sntrup953 > addEncap953.int 8> addEncap953.req 9> addEncap953.rsp

@@ -1,2 +1,2 @@
 #!/bin/sh
-./kat kem/ntrulpr1013 > addEncap1013.int 8> addEncap1013.req 9> addEncap1013.rsp
+./kat_encap kem/ntrulpr1013 > addEncap1013.int 8> addEncap1013.req 9> addEncap1013.rsp
