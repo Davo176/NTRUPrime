@@ -36,7 +36,7 @@ main()
     // Create the REQUEST file
 
     //java 2 and 3 will fail due to different ss size.
-    sprintf(fn_req, "encapsulation_csharp_%d.rsp", crypto_kem_SECRETKEYBYTES); //should be changed between _java_ or _csharp_
+    sprintf(fn_req, "encapsulation_java_%d.rsp", crypto_kem_SECRETKEYBYTES); //should be changed between _java_ or _csharp_
 
     for (int i=0; i<48; i++)
         entropy_input[i] = i;
