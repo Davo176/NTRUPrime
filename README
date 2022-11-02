@@ -1,4 +1,11 @@
+Additional Testing - Will
 Make all additional Test cases by running ./Reference_Implementation/buildAll.sh
+for interoperability testing you need to run manually change between csharp and java in the code
+after that can run 
+./Reference_Implementation/createKeyPairs.sh
+./Reference_Implementation/createEncapsulations.sh
+./Reference_Implementation/checkDecapsulations.sh
+
 
 KAT/kem/ntrulpr1013/kat_kem.int: intermediate values for Known Answer Test
 KAT/kem/ntrulpr1013/kat_kem.req: input for Known Answer Test
